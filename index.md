@@ -25,16 +25,16 @@ layout: default
 
 # FAQ
 1.  
--Question 1
---Answer 1
+- Question 1
+  - Answer 1
 
 2.  
--Question 2
---Answer 2
+- Question 2
+  - Answer 2
 
 3.  
--Question 3
---Answer 3
+- Question 3
+  - Answer 3
 
 
 
