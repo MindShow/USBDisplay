@@ -4,11 +4,11 @@ layout: default
 
 # Drivers
 
-## USB Display Driver For WinDows 7 / Windows 8 / Windows Vista / Windows 10
+## USB Display Driver For Win7 / Win8 / WinVista / Win10
 
 [MSDisplay_MultiDev_v1.0.1.3.exe](./WinDows/MSDisplay_MultiDev_v1.0.1.3.exe)
 
-## USB Display Driver For WinDows XP
+## USB Display Driver For WinXP
 
 [MSDisplay_v1.0.0.0_XP.exe](./WinXP/MSDisplay_v1.0.0.0_XP.exe)
 
