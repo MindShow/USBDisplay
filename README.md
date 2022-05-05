@@ -67,6 +67,12 @@ layout: default
   - Can not support
 
 
+## Support
+
+If there is an exception in the program, feedback a copy of the file WinUsbDisplay.log
+
+1. The default location of this file is "C:\Users\%yourUserName%\AppData\Roaming\WinUsbDisplay\WinUsbDisplay.log"
+2. you can also find the file of WinUsbDisplay.log by running logpath.bat.
 
 
 
