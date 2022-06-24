@@ -1,5 +1,7 @@
 #
 
+[中文](https://github.com/MindShow/USBDisplay/blob/main/说明.md) | [English](https://github.com/MindShow/USBDisplay/blob/main/README.md)
+
 ## Install Guide
 
 1. Turn off/uninstall antivirus software
@@ -20,7 +22,7 @@
 
 #### Latest Release
 
-+ [USMUSBDisplay_Windows_V2.0.1.7.3.exe](https://github.com/MindShow/USBDisplay/blob/main/WinDows/USMUSBDisplay_Windows_V2.0.1.7.3.exe)
++ [MSDisplay_Windows_V2.0.1.7.3.exe](https://github.com/MindShow/USBDisplay/blob/main/WinDows/MSDisplay_Windows_V2.0.1.7.3.exe)
 
 #### Older releases
 
@@ -53,7 +55,7 @@
 
 #### Latest Release
 
-+ [MSUSBDisplay_Android_V2.0.1.1.apk](https://github.com/MindShow/USBDisplay/blob/main/Android/MSUSBDisplay_Android_V2.0.1.1.apk)
++ [MSDisplay_Android_V2.0.1.3.apk](https://github.com/MindShow/USBDisplay/blob/main/Android/MSDisplay_Android_V2.0.1.3.apk)
 
 #### Older releases
 
@@ -98,3 +100,8 @@ If there is an exception in the program, feedback a copy of the file WinUsbDispl
     ```
 
 2. you can also find the file of ```WinUsbDisplay.log``` by running ```logpath.bat```.
+
+&nbsp;
+&nbsp;
+&nbsp;
+### <center>[Technical Support By UltraSemi](http://www.ultrasemi.com)</center>
