@@ -1,6 +1,14 @@
 #
 
+
 [中文](https://github.com/MindShow/USBDisplay/blob/main/说明.md) | [English](https://github.com/MindShow/USBDisplay/blob/main/README.md)
+
+
+## linux source code
+
++ [Linux source code]http://www.macrosilicon.com:9080/download/USBDisplay/Linux/
+
+
 
 ## Install Guide
 
